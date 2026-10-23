@@ -1,62 +1,79 @@
-<h1 align="center">Hi, I'm Ali 👋</h1>
-<h3 align="center">Full-Stack Developer · Next.js · React · React Native · TypeScript</h3>
+<img src="assets/banner.jpg" alt="Ali Fayzullaev — Full-Stack Developer" width="100%">
 
-<p align="center">
-  I build fast, modern web and mobile apps for businesses — from high-converting landing pages to CRM systems with dashboards, auth and APIs.
-</p>
+<br>
 
-<p align="center">
-  <a href="mailto:alifayzullaev2020@gmail.com"><img src="https://img.shields.io/badge/Email-alifayzullaev2020%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+I design and build web and mobile products for businesses — from conversion-focused landing pages to CRM systems with dashboards, role-based access and integrations. Over the last two years I have shipped 20+ commercial projects in real estate, finance, automotive, e-commerce and events.
 
----
+Open to freelance projects and remote roles.
 
-### 🚀 What I do
-
-- **Websites & landing pages** — responsive, animated, SEO-friendly, multilingual (RU / KZ / EN)
-- **Web apps & admin panels** — CRM, dashboards, role-based access, Excel export
-- **Mobile apps** — iOS & Android with React Native / Expo
-- **Backend** — Node.js, FastAPI, PostgreSQL, Supabase, Prisma, REST & WebSockets
-- **Deployment** — Vercel, Netlify, Docker, GitHub Actions CI
-
-### 🛠 Tech stack
+<br>
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React%20Native-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React Native">
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Supabase-1c1c1c?style=flat-square&logo=supabase&logoColor=3ecf8e" alt="Supabase">
-  <img src="https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
-  <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
+  <a href="mailto:alifayzullaev2020@gmail.com"><img src="https://img.shields.io/badge/Email-alifayzullaev2020%40gmail.com-06141B?style=for-the-badge&logo=gmail&logoColor=f59e0b" alt="Email"></a>
 </p>
 
-### 📂 Selected projects
+<br>
 
-| Project | What it is | Stack |
+## Stack
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,python,fastapi,postgres,prisma,supabase,redis,docker,vercel,git,figma,threejs&perline=9" alt="Tech stack">
+
+<br>
+
+## Selected work
+
+### LeadStream
+Lead-generation platform for TikTok streamers. Every streamer gets a personal referral link and QR code; orders are attributed automatically and shown on an analytics dashboard with charts, tables and Excel export.
+
+`Next.js` `TypeScript` `Supabase` `Tailwind CSS` `Recharts`
+
+<a href="https://lead-stream-vert.vercel.app"><img src="assets/leadstream.jpg" alt="LeadStream" width="100%"></a>
+
+[Live site](https://lead-stream-vert.vercel.app) · [Source](https://github.com/Ali-Fayzullaev/LeadStream)
+
+<br>
+
+### Koleso Shymkent
+Website for a car-sales community in Shymkent with a 69K Instagram audience. Clean, editorial design built to turn Instagram traffic into car listings via WhatsApp.
+
+`React` `JavaScript` `Netlify`
+
+<a href="https://koleso-shymkent.kz"><img src="assets/koleso.jpg" alt="Koleso Shymkent" width="100%"></a>
+
+[Live site](https://koleso-shymkent.kz) · [Source](https://github.com/Ali-Fayzullaev/koleso-shymkent)
+
+<br>
+
+### Real Tank Arena
+Investor landing page for a platform where players control real tanks online. Bold typographic hero, animated metrics and fully responsive layout.
+
+`HTML` `CSS` `JavaScript`
+
+<a href="https://real-tank-arena.vercel.app"><img src="assets/rta.jpg" alt="Real Tank Arena" width="100%"></a>
+
+[Live site](https://real-tank-arena.vercel.app) · [Source](https://github.com/Ali-Fayzullaev/RealTankArena)
+
+<br>
+
+### More
+
+| Project | Description | Stack |
 |---|---|---|
-| [**LeadStream**](https://github.com/Ali-Fayzullaev/LeadStream) · [live](https://lead-stream-vert.vercel.app) | Tracks customers referred by TikTok streamers: referral links, QR codes, analytics dashboard, Excel export | Next.js, Supabase, Recharts |
-| [**Dialogue**](https://github.com/Ali-Fayzullaev/app-dialogue) | Cross-platform messenger: chats, media, camera, push notifications | React Native, Expo, Supabase |
-| [**Koleso Shymkent**](https://github.com/Ali-Fayzullaev/koleso-shymkent) · [live](https://koleso-shymkent.kz) | Landing page for a car dealership, leads from Instagram | React |
-| [**Real Tank Arena**](https://github.com/Ali-Fayzullaev/RealTankArena) · [live](https://real-tank-arena.vercel.app) | Interactive 3D web experience | Three.js |
-| [**GoldenCart**](https://github.com/Ali-Fayzullaev/GoldenCart) | Web app with dashboard, charts and authentication | Next.js, Supabase, React Query |
-| [**Al-Quran**](https://github.com/Ali-Fayzullaev/Al-Quran) | Quran web app | Next.js, TypeScript |
+| [Dialogue](https://github.com/Ali-Fayzullaev/app-dialogue) | Cross-platform messenger: chats, media, camera, push notifications | React Native, Expo, Supabase |
+| [GoldenCart](https://github.com/Ali-Fayzullaev/GoldenCart) | Web app with dashboard, charts and authentication | Next.js, Supabase, React Query |
+| [Al-Quran](https://github.com/Ali-Fayzullaev/Al-Quran) | Quran web app | Next.js, TypeScript |
 
-> Many of my commercial projects (CRM systems, lead-generation platforms, event registration) are private under client NDAs — happy to walk through them on a call.
+Most of my commercial work — CRM systems, lead-generation platforms, mobile apps and event registration — lives in private repositories under client agreements. I am happy to walk through it on a call.
 
-### 📊 GitHub stats
+<br>
+
+## Activity
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ali-Fayzullaev&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Fayzullaev&layout=compact&hide_border=true" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ali-Fayzullaev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=06141B&title_color=f59e0b&icon_color=f59e0b&text_color=CCD0CF" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Fayzullaev&layout=compact&hide_border=true&bg_color=06141B&title_color=f59e0b&text_color=CCD0CF" alt="Top languages">
 </p>
 
----
+<br>
 
-<p align="center">📍 Astana, Kazakhstan · 🗣 Uzbek, Russian, Kazakh, English</p>
+<sub>Astana, Kazakhstan · Uzbek, Russian, Kazakh, English</sub>
